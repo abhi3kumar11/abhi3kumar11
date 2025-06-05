@@ -25,7 +25,7 @@
 ## 📂 Featured Projects
 
 - 🧠 **AI Notes Summarizer**  
-  > Upload text/PDF/image ➜ Get summaries, key points & MCQs via OpenAI  
+  > Upload text/PDF/image ➜ Get summaries, key points & MCQs via Gemini 
 - 🧪 **Quiz Master V1**  
   > Flask + SQLite web quiz app for education  
 - 💼 **Job Board Scraper**  
