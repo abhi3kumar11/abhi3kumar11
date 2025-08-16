@@ -41,6 +41,7 @@ An all-in-one platform with **100+ free, ad-free, no-login tools** for PDFs, ima
 ### 💬 [Random Chat Room](https://rjchat.onrender.com)  
 Real-time chat app built with **Node.js, Express & Socket.IO**.  
 🔹 Features: random user matching, live messaging, clean UI.  
+![Random Chat Room](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)  
 [🔗 GitHub Repo](https://github.com/abhi3kumar11/Random-Chat)  
 
 ---
