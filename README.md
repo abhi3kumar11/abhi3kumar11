@@ -47,13 +47,13 @@ Real-time chat app built with **Node.js, Express & Socket.IO**.
 
 ### 📑 AI Notes Summarizer  
 A Flask + OpenAI project that generates **summaries, key points, and MCQs** from text, PDFs, or images.  
-[🔗 Repo Soon](#)  
+[🔗 Repo Soon](https://github.com/abhi3kumar11/ai-notes-summarizer)  
 
 ---
 
 ### 🧪 Quiz Master V1  
 A web-based quiz app using **Flask + SQLite** designed for education.  
-[🔗 GitHub Repo](https://github.com/abhi3kumar11)  
+[🔗 GitHub Repo](https://github.com/abhi3kumar11/mad1-project)  
 
 ---
 
