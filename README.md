@@ -79,6 +79,7 @@ A web-based quiz app using **Flask + SQLite** designed for education.
 🔗 LinkedIn: [linkedin.com/in/abhi3kumar11](https://www.linkedin.com/in/abhi3kumar11)  
 🌐 Portfolio: [FreePremiumTools.com](https://freepremiumtools.com)  
 📺 YouTube: [@rjlusifer](https://www.youtube.com/@rjlusifer)  
+📸 Instagram: [@abhi3kumar11](https://www.instagram.com/abhi3kumar11)
 
 ---
 
