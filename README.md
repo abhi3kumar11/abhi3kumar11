@@ -5,7 +5,7 @@
   <a href="https://freepremiumtools.com" target="_blank">🌐 FreePremiumTools.com</a> |
   <a href="https://github.com/abhi3kumar11">💻 GitHub</a> |
   <a href="https://www.linkedin.com/in/abhi3kumar11/">🔗 LinkedIn</a> |
-  <a href="https://www.youtube.com/@RJ-Lusifer">📺 YouTube</a>
+  <a href="https://www.youtube.com/@rjlusifer">📺 YouTube</a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi3kumar11&label=Profile%20views&color=0e75b6&style=flat" alt="abhi3kumar11" /> </p>
