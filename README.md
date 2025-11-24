@@ -16,13 +16,12 @@
 - 🎓 **B.Tech in Artificial Intelligence** @ *Purnea College of Engineering*  
 - 🎓 **BS in Data Science** @ *IIT Madras*  
 - 🌱 Currently exploring **Go, TypeScript, Django, and AI APIs**  
-- 💼 Founder of **[FreePremiumTools.com](https://freepremiumtools.com)** — 100+ free tools (no ads, no login)
--  🤖 Creator of **[LUSI AI](Live: https://lusiai.onrender.com)** — an open-source AI assistant built with Flask + JS + OpenRouter.  
-- 🔥 Creator of **Random Chat Room** ([Live Demo](https://rjchat.onrender.com) — real-time chat using Node.js & Socket.IO  
+- 💼 Founder of **[FreePremiumTools.com](https://freepremiumtools.com)** — 100+ free tools (no ads, no login)  
+- 🤖 Creator of **[LUSI AI](https://lusiai.onrender.com)** — an open-source AI assistant built with Flask + JavaScript + OpenRouter  
+- 🔥 Creator of **Random Chat Room** — [Live Demo](https://rjchat.onrender.com) (real-time chat using Node.js & Socket.IO)  
 - 🧑‍🏫 Sharing knowledge on **YouTube** [@rjlusifer](https://www.youtube.com/@rjlusifer)  
 - 💡 Passionate about **AI, Open Source, and Building Scalable Apps**
 
----
 
 ## 🛠️ Tech Stack  
 <p align="center">
