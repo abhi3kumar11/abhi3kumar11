@@ -37,7 +37,7 @@ An all-in-one platform with **100+ free, ad-free, no-login tools** for PDFs, ima
 ![FreePremiumTools](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)  
 
 ---
-### 🤖 LUSI AI — Open-Source AI Chat Assistant  
+### 🤖 [LUSI AI — Open-Source AI Chat Assistant](https://lusiai.onrender.com/)
 LUSI AI is a sleek and powerful multimodal AI assistant built using **Flask + OpenRouter API**.  
 🔹 Multiple free AI models  
 🔹 Text + image (vision) chat  
