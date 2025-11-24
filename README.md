@@ -16,8 +16,9 @@
 - 🎓 **B.Tech in Artificial Intelligence** @ *Purnea College of Engineering*  
 - 🎓 **BS in Data Science** @ *IIT Madras*  
 - 🌱 Currently exploring **Go, TypeScript, Django, and AI APIs**  
-- 💼 Founder of **[FreePremiumTools.com](https://freepremiumtools.com)** — 100+ free tools (no ads, no login)  
-- 🔥 Creator of **Random Chat Room** ([Live Demo](https://rjchat.onrender.com)) — real-time chat using Node.js & Socket.IO  
+- 💼 Founder of **[FreePremiumTools.com](https://freepremiumtools.com)** — 100+ free tools (no ads, no login)
+-  🤖 Creator of **[LUSI AI](Live: https://lusiai.onrender.com)** — an open-source AI assistant built with Flask + JS + OpenRouter.  
+- 🔥 Creator of **Random Chat Room** ([Live Demo](https://rjchat.onrender.com) — real-time chat using Node.js & Socket.IO  
 - 🧑‍🏫 Sharing knowledge on **YouTube** [@rjlusifer](https://www.youtube.com/@rjlusifer)  
 - 💡 Passionate about **AI, Open Source, and Building Scalable Apps**
 
@@ -35,6 +36,21 @@
 ### 🌐 [FreePremiumTools.com](https://freepremiumtools.com)  
 An all-in-one platform with **100+ free, ad-free, no-login tools** for PDFs, images, AI, QR codes, dev utilities & more.  
 ![FreePremiumTools](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)  
+
+---
+### 🤖 LUSI AI — Open-Source AI Chat Assistant  
+LUSI AI is a sleek and powerful multimodal AI assistant built using **Flask + OpenRouter API**.  
+🔹 Multiple free AI models  
+🔹 Text + image (vision) chat  
+🔹 Real-time streaming  
+🔹 Persistent conversation history  
+🔹 Modern glassmorphism UI  
+
+**🛠️ Tech Used:**  
+Python, Flask, HTML5, CSS3, JavaScript (ES6+), OpenRouter API
+
+🌐 **Live Demo:**https://lusiai.onrender.com/
+📂 **GitHub Repo:** https://github.com/abhi3kumar11/lusi.ai
 
 ---
 
