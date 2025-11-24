@@ -47,6 +47,7 @@ LUSI AI is a sleek and powerful multimodal AI assistant built using **Flask + Op
 
 **🛠️ Tech Used:**  
 Python, Flask, HTML5, CSS3, JavaScript (ES6+), OpenRouter API
+
 🌐**Live Demo:** [LUSI AI](https://lusiai.onrender.com/)  
 📂[🔗 GitHub Repo](https://github.com/abhi3kumar11/lusi.ai)  
 
