@@ -26,7 +26,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,go,react,nextjs,vue,nodejs,express,django,flask,mysql,mongodb,sqlite,html,css,tailwind,bootstrap,git,github,linux,vscode" />
+  <img src="https://img.shields.io/badge/OpenAI-API-blue?style=for-the-badge&logo=openai" />
 </p>
 
 
