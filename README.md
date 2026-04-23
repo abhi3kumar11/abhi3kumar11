@@ -24,7 +24,7 @@
 - 💡 Passionate about AI, Open Source, and Scalable Web Apps
 
 
-## 🛠️ Tech Stack  
+ 
 ## 🛠️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,go,react,nodejs,express,django,flask,mysql,mongodb,sqlite,html,css,tailwind,bootstrap,vue,git,github,linux,vscode" />
@@ -111,7 +111,7 @@ A comprehensive event management platform for organizing technical festivals and
 ## 🌍 Connect with Me  
 📧 Email: **abhi3kumar11@gmail.com**  
 🔗 LinkedIn: [linkedin.com/in/abhi3kumar11](https://www.linkedin.com/in/abhi3kumar11)  
-🌐 Portfolio: [FreePremiumTools.com](https://abhi3kumar11.netlify.app/)  
+🌐 Portfolio: [@abhi3kumar11](https://abhi3kumar11.netlify.app/)  
 📺 YouTube: [@rjlusifer](https://www.youtube.com/@rjlusifer)  
 📸 Instagram: [@abhi3kumar11](https://www.instagram.com/abhi3kumar11)
 
