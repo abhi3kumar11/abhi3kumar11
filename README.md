@@ -1,7 +1,7 @@
 <!-- Profile README for abhi3kumar11 -->
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">🚀 AI & Full-Stack Developer | Building Scalable Apps | Founder of FreePremiumTools.com</h3>
+<h3 align="center">🚀 AI & Full-Stack Developer | Building Scalable Web Apps | AI-Powered Tools | Cloud Deployment </h3>
 
 <p align="center">
   <a href="mailto:abhi3kumar11@gmail.com"><img src="https://img.shields.io/badge/Email-abhi3kumar11%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
