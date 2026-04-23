@@ -19,7 +19,8 @@
 - 🤖 Creator of [LUSI AI](https://lusiai.onrender.com) — open-source AI assistant  
 - 🔥 Built [Random Chat Room](https://rjchat.onrender.com) — real-time chat app  
 - 📑 Developed AI Notes Summarizer — text/PDF/image → notes + MCQs  
-- 🧑‍🏫 Sharing knowledge on YouTube [@rjlusifer](https://www.youtube.com/@rjlusifer)  
+- 🧑‍🏫 Sharing knowledge on YouTube [@rjlusifer](https://www.youtube.com/@rjlusifer)
+- Built [TechFest – Event Management Platform](https://techfestpce.onrender.com) —  comprehensive event management platform
 - 💡 Passionate about AI, Open Source, and Scalable Web Apps
 
 
