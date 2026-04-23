@@ -1,7 +1,7 @@
 <!-- Profile README for abhi3kumar11 -->
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">🚀 AI & Full-Stack Developer | Data Science Student @ IIT Madras | B.Tech AI @ Purnea College of Engineering</h3>
+<h3 align="center">🚀 AI & Full-Stack Developer | Building Scalable Apps | Founder of FreePremiumTools.com</h3>
 
 <p align="center">
   <a href="mailto:abhi3kumar11@gmail.com"><img src="https://img.shields.io/badge/Email-abhi3kumar11%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
@@ -12,15 +12,15 @@
 
 ---
 
-## 👨‍💻 About Me  
-- 🎓 **B.Tech in Artificial Intelligence** @ *Purnea College of Engineering*  
-- 🎓 **BS in Data Science** @ *IIT Madras*  
-- 🌱 Currently exploring **Go, TypeScript, Django, and AI APIs**  
-- 💼 Founder of **[FreePremiumTools.com](https://freepremiumtools.com)** — 100+ free tools (no ads, no login)  
-- 🤖 Creator of **[LUSI AI](https://lusiai.onrender.com)** — an open-source AI assistant built with Flask + JavaScript + OpenRouter  
-- 🔥 Creator of **Random Chat Room** — [Live Demo](https://rjchat.onrender.com) (real-time chat using Node.js & Socket.IO)  
-- 🧑‍🏫 Sharing knowledge on **YouTube** [@rjlusifer](https://www.youtube.com/@rjlusifer)  
-- 💡 Passionate about **AI, Open Source, and Building Scalable Apps**
+## 👨‍💻 About Me
+- 🎓 B.Tech in Artificial Intelligence @ Purnea College of Engineering  
+- 🎓 BS in Data Science @ IIT Madras  
+- 💼 Founder of [FreePremiumTools.com](https://freepremiumtools.com) — 100+ free tools (no ads, no login)  
+- 🤖 Creator of [LUSI AI](https://lusiai.onrender.com) — open-source AI assistant  
+- 🔥 Built [Random Chat Room](https://rjchat.onrender.com) — real-time chat app  
+- 📑 Developed AI Notes Summarizer — text/PDF/image → notes + MCQs  
+- 🧑‍🏫 Sharing knowledge on YouTube [@rjlusifer](https://www.youtube.com/@rjlusifer)  
+- 💡 Passionate about AI, Open Source, and Scalable Web Apps
 
 
 ## 🛠️ Tech Stack  
@@ -29,48 +29,62 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects  
 
 ### 🌐 [FreePremiumTools.com](https://freepremiumtools.com)  
 An all-in-one platform with **100+ free, ad-free, no-login tools** for PDFs, images, AI, QR codes, dev utilities & more.  
-![FreePremiumTools](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)  
+**Tech:** Full-Stack Development, API Integration, Cloud Deployment, Responsive UI/UX  
 
 ---
-### 🤖 [LUSI AI — Open-Source AI Chat Assistant](https://lusiai.onrender.com/)
-LUSI AI is a sleek and powerful multimodal AI assistant built using **Flask + OpenRouter API**.  
+
+### 🤖 [LUSI AI — Open-Source AI Chat Assistant](https://lusiai.onrender.com/)  
+A sleek multimodal AI assistant built using **Flask + OpenRouter API**.  
 🔹 Multiple free AI models  
 🔹 Text + image (vision) chat  
 🔹 Real-time streaming  
 🔹 Persistent conversation history  
 🔹 Modern glassmorphism UI  
-
-**🛠️ Tech Used:**  
-Python, Flask, HTML5, CSS3, JavaScript (ES6+), OpenRouter API
-
-🌐**Live Demo:** [LUSI AI](https://lusiai.onrender.com/)  
-📂[🔗 GitHub Repo](https://github.com/abhi3kumar11/lusi.ai)  
-
+**Tech:** Python, Flask, HTML5, CSS3, JavaScript (ES6+), OpenRouter API  
+📂 [GitHub Repo](https://github.com/abhi3kumar11/lusi.ai)  
 
 ---
 
 ### 💬 [Random Chat Room](https://rjchat.onrender.com)  
-Real-time chat app built with **Node.js, Express & Socket.IO**.  
-🔹 Features: random user matching, live messaging, clean UI.  
-![Random Chat Room](https://img.shields.io/badge/Website-Live-brightgreen?style=flat-square)  
-[🔗 GitHub Repo](https://github.com/abhi3kumar11/Random-Chat)  
+Real-time chat app with random user matching and live messaging.  
+**Tech:** Node.js, Express, Socket.IO, MongoDB  
+📂 [GitHub Repo](https://github.com/abhi3kumar11/Random-Chat)  
 
 ---
 
 ### 📑 AI Notes Summarizer  
 A Flask + OpenAI project that generates **summaries, key points, and MCQs** from text, PDFs, or images.  
-[🔗 Repo Soon](https://github.com/abhi3kumar11/ai-notes-summarizer)  
+**Tech:** Python, Flask, NLP, OpenAI APIs  
+📂 [Repo Soon](https://github.com/abhi3kumar11/ai-notes-summarizer)  
 
 ---
 
 ### 🧪 Quiz Master V1  
 A web-based quiz app using **Flask + SQLite** designed for education.  
-[🔗 GitHub Repo](https://github.com/abhi3kumar11/mad1-project)  
+**Tech:** Python, Flask, SQLite, Bootstrap  
+📂 [GitHub Repo](https://github.com/abhi3kumar11/mad1-project)  
+
+---
+
+### 🏥 Hospital Management System  
+A full-stack hospital management solution with patient records, appointments, and staff management.  
+**Tech:** Node.js, Vue.js, SQL, Flask, Authentication Security  
+
+---
+
+### 🎉 [TechFest – Event Management Platform](https://techfestpce.onrender.com)  
+A comprehensive event management platform for organizing technical festivals and college events.  
+🔹 Event creation & management  
+🔹 Role-based authentication (User, Ambassador, Coordinator, Admin)  
+🔹 QR code registration & check-in  
+🔹 Payment verification system  
+🔹 Ambassador referral program  
+**Tech:** Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB  
+📂 [GitHub Repo](https://github.com/CodeQuestPCE/techfest-26)  
 
 ---
 
@@ -94,7 +108,7 @@ A web-based quiz app using **Flask + SQLite** designed for education.
 ## 🌍 Connect with Me  
 📧 Email: **abhi3kumar11@gmail.com**  
 🔗 LinkedIn: [linkedin.com/in/abhi3kumar11](https://www.linkedin.com/in/abhi3kumar11)  
-🌐 Portfolio: [FreePremiumTools.com](https://freepremiumtools.com)  
+🌐 Portfolio: [FreePremiumTools.com](https://abhi3kumar11.netlify.app/)  
 📺 YouTube: [@rjlusifer](https://www.youtube.com/@rjlusifer)  
 📸 Instagram: [@abhi3kumar11](https://www.instagram.com/abhi3kumar11)
 
