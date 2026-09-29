@@ -1,124 +1,258 @@
-<!-- Profile README for abhi3kumar11 -->
+<h1 align="center">Hey 👋, I'm Abhishek Kumar</h1>
 
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">🚀 AI & Full-Stack Developer | Building Scalable Web Apps | AI-Powered Tools | Cloud Deployment </h3>
+<h3 align="center">
+  AI & Full-Stack Developer • Product Builder • Open Source Enthusiast
+</h3>
 
 <p align="center">
-  <a href="mailto:abhi3kumar11@gmail.com"><img src="https://img.shields.io/badge/Email-abhi3kumar11%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/abhi3kumar11"><img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://freepremiumtools.com"><img src="https://img.shields.io/badge/🌐-FreePremiumTools.com-green?style=for-the-badge" /></a>
-  <a href="https://www.youtube.com/@rjlusifer"><img src="https://img.shields.io/badge/YouTube-RJLusifer-red?style=for-the-badge&logo=youtube" /></a>
+  <a href="mailto:abhi3kumar11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abhi3kumar11%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhi3kumar11">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Kumar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.utooly.com">
+    <img src="https://img.shields.io/badge/🌐-Utooly.com-6366F1?style=for-the-badge" />
+  </a>
+  <a href="https://www.rizzcall.com">
+    <img src="https://img.shields.io/badge/💬-RizzCall-ff4f81?style=for-the-badge" />
+  </a>
+  <a href="https://www.youtube.com/@rjlusifer">
+    <img src="https://img.shields.io/badge/YouTube-RJLusifer-red?style=for-the-badge&logo=youtube" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 B.Tech in Artificial Intelligence @ Purnea College of Engineering  
-- 🎓 BS in Data Science @ IIT Madras  
-- 💼 Founder of [FreePremiumTools.com](https://freepremiumtools.com) — 100+ free tools (no ads, no login)  
-- 🤖 Creator of [LUSI AI](https://lusiai.onrender.com) — open-source AI assistant  
-- 🔥 Built [Random Chat Room](https://rjchat.onrender.com) — real-time chat app  
-- 📑 Developed AI Notes Summarizer — text/PDF/image → notes + MCQs  
-- 🧑‍🏫 Sharing knowledge on YouTube [@rjlusifer](https://www.youtube.com/@rjlusifer)
-- Built [TechFest – Event Management Platform](https://techfestpce.onrender.com) —  comprehensive event management platform
-- 💡 Passionate about AI, Open Source, and Scalable Web Apps
 
+I'm an **AI & Full-Stack Developer and Product Builder** who enjoys turning ideas into real products.
 
- 
-## 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,go,react,nodejs,express,django,flask,mysql,mongodb,sqlite,html,css,tailwind,bootstrap,vue,git,github,linux,vscode" />
+I like building things from **zero → something people can actually use** — from AI assistants and productivity tools to real-time communication platforms and complete web applications.
+
+🎓 **B.Tech in Artificial Intelligence** — Purnea College of Engineering
+🎓 **BS in Data Science** — IIT Madras
+
+🚀 Building **[Utooly](https://www.utooly.com)** — AI, developer, PDF, image & productivity tools in one platform.
+
+💬 Building **[RizzCall](https://www.rizzcall.com)** — a real-time social communication platform for casual conversations.
+
+🤖 Creator of **[LUSI AI](https://lusiai.onrender.com)** — an open-source AI assistant.
+
+🎉 Built **[TechFest](https://techfestpce.onrender.com)** — an event management platform with registration, QR check-in, payments and role-based management.
+
+🧠 I enjoy working with **AI, full-stack development, real-time systems, APIs, automation, cloud deployment and open-source software.**
+
+> **I don't just learn technologies — I like building with them.**
+
+---
+
+## 🚀 What I'm Building
+
+### 🛠️ Utooly
+
+**[Utooly.com](https://www.utooly.com)**
+
+An all-in-one productivity platform bringing together **AI, developer, PDF, image and everyday utility tools**.
+
+Currently expanding the platform with new tools and AI-powered features.
+
+**Focus:** AI • Developer Tools • Productivity • Web Utilities
+
+---
+
+### 💬 RizzCall
+
+**[RizzCall.com](https://www.rizzcall.com)**
+
+A real-time social communication platform designed for **casual, non-academic conversations and connecting with people online**.
+
+**Focus:** Real-Time Communication • Social Web • WebSockets • Modern UI/UX
+
+---
+
+## ⭐ Featured Projects
+
+### 🤖 LUSI AI — Open-Source AI Assistant
+
+**[Live Demo](https://lusiai.onrender.com)** • **[GitHub](https://github.com/abhi3kumar11/lusi.ai)**
+
+A multimodal AI assistant built with Flask and AI APIs.
+
+* 💬 AI text conversations
+* 🖼️ Image/vision support
+* ⚡ Real-time streaming
+* 🧠 Conversation history
+* 🎨 Modern glassmorphism interface
+* 🔌 Multiple AI model integration
+
+**Tech:** Python • Flask • JavaScript • OpenRouter API
+
+---
+
+### 🎉 TechFest — Event Management Platform
+
+**[Live Platform](https://techfestpce.onrender.com)** • **[GitHub](https://github.com/CodeQuestPCE/techfest-26)**
+
+A complete platform for managing technical festivals and college events.
+
+* 🎟️ Event registration
+* 📱 QR-based check-in
+* 💳 Payment verification
+* 👥 Role-based authentication
+* 🤝 Ambassador referral system
+* ⚙️ Admin & coordinator management
+
+**Tech:** Next.js • React • TypeScript • Tailwind CSS • Node.js • Express • MongoDB
+
+---
+
+### 🧠 AI Notes Summarizer
+
+An AI-powered application that transforms **text, PDFs and images into useful study material**.
+
+* 📝 Summaries
+* 🔑 Key points
+* ❓ MCQ generation
+* 📄 PDF processing
+* 🖼️ Image-based input
+
+**Tech:** Python • Flask • AI APIs • NLP
+
+---
+
+### 🧪 Quiz Master V1
+
+A web-based educational quiz platform built for interactive learning.
+
+**Tech:** Python • Flask • SQLite • Bootstrap
+
+**[GitHub](https://github.com/abhi3kumar11/mad1-project)**
+
+---
+
+### 🏥 Hospital Management System
+
+A full-stack hospital management platform for managing:
+
+* Patients
+* Appointments
+* Staff
+* Records
+* Authentication
+
+**Tech:** Node.js • Vue.js • Flask • SQL
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,go" />
 </p>
 
+### Frontend
 
----
-## 🚀 Featured Projects  
-
-### 🌐 [FreePremiumTools.com](https://freepremiumtools.com)  
-An all-in-one platform with **100+ free, ad-free, no-login tools** for PDFs, images, AI, QR codes, dev utilities & more.  
-**Tech:** Full-Stack Development, API Integration, Cloud Deployment, Responsive UI/UX  
-
----
-
-### 🤖 [LUSI AI — Open-Source AI Chat Assistant](https://lusiai.onrender.com/)  
-A sleek multimodal AI assistant built using **Flask + OpenRouter API**.  
-🔹 Multiple free AI models  
-🔹 Text + image (vision) chat  
-🔹 Real-time streaming  
-🔹 Persistent conversation history  
-🔹 Modern glassmorphism UI  
-**Tech:** Python, Flask, HTML5, CSS3, JavaScript (ES6+), OpenRouter API  
-📂 [GitHub Repo](https://github.com/abhi3kumar11/lusi.ai)  
-
----
-
-### 💬 [Random Chat Room](https://rjchat.onrender.com)  
-Real-time chat app with random user matching and live messaging.  
-**Tech:** Node.js, Express, Socket.IO, MongoDB  
-📂 [GitHub Repo](https://github.com/abhi3kumar11/Random-Chat)  
-
----
-
-### 📑 AI Notes Summarizer  
-A Flask + OpenAI project that generates **summaries, key points, and MCQs** from text, PDFs, or images.  
-**Tech:** Python, Flask, NLP, OpenAI APIs  
-📂 [Repo Soon](https://github.com/abhi3kumar11/ai-notes-summarizer)  
-
----
-
-### 🧪 Quiz Master V1  
-A web-based quiz app using **Flask + SQLite** designed for education.  
-**Tech:** Python, Flask, SQLite, Bootstrap  
-📂 [GitHub Repo](https://github.com/abhi3kumar11/mad1-project)  
-
----
-
-### 🏥 Hospital Management System  
-A full-stack hospital management solution with patient records, appointments, and staff management.  
-**Tech:** Node.js, Vue.js, SQL, Flask, Authentication Security  
-
----
-
-### 🎉 [TechFest – Event Management Platform](https://techfestpce.onrender.com)  
-A comprehensive event management platform for organizing technical festivals and college events.  
-🔹 Event creation & management  
-🔹 Role-based authentication (User, Ambassador, Coordinator, Admin)  
-🔹 QR code registration & check-in  
-🔹 Payment verification system  
-🔹 Ambassador referral program  
-**Tech:** Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB  
-📂 [GitHub Repo](https://github.com/CodeQuestPCE/techfest-26)  
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi3kumar11&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi3kumar11&theme=tokyonight" height="165" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,bootstrap" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi3kumar11&layout=compact&theme=tokyonight" height="165" />
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,mongodb,mysql,sqlite" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi3kumar11&theme=onedark&no-frame=true&margin-w=10" />
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,vercel" />
 </p>
 
 ---
 
-## 🌍 Connect with Me  
-📧 Email: **abhi3kumar11@gmail.com**  
-🔗 LinkedIn: [linkedin.com/in/abhi3kumar11](https://www.linkedin.com/in/abhi3kumar11)  
-🌐 Portfolio: [@abhi3kumar11](https://abhi3kumar11.netlify.app/)  
-📺 YouTube: [@rjlusifer](https://www.youtube.com/@rjlusifer)  
-📸 Instagram: [@abhi3kumar11](https://www.instagram.com/abhi3kumar11)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi3kumar11&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi3kumar11&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi3kumar11&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
-![visitors](https://komarev.com/ghpvc/?username=abhi3kumar11&label=Profile%20Views&color=0e75b6&style=flat)
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhi3kumar11&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
-<p align="center"><i>“Code with a purpose, create with passion.”</i></p>
+## 🌱 Currently Learning
+
+* 🤖 Generative AI & LLM Applications
+* 🧠 AI Agents & Automation
+* ☁️ Cloud & Deployment
+* ⚡ Scalable Backend Architecture
+* 🔐 Application Security
+* 🧩 System Design
+
+---
+
+## 🎯 My Interests
+
+```text
+AI & Machine Learning
+Full-Stack Development
+Product Building
+Developer Tools
+Real-Time Applications
+Open Source
+Automation
+Cloud Computing
+System Design
+```
+
+---
+
+## 🌍 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abhi3kumar11">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.utooly.com">
+<img src="https://img.shields.io/badge/Utooly-Visit-6366F1?style=for-the-badge"/>
+</a>
+
+<a href="https://www.rizzcall.com">
+<img src="https://img.shields.io/badge/RizzCall-Visit-ff4f81?style=for-the-badge"/>
+</a>
+
+<a href="https://www.youtube.com/@rjlusifer">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="https://www.instagram.com/abhi3kumar11">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhi3kumar11&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<h3 align="center">
+  🚀 Build • Learn • Experiment • Repeat
+</h3>
