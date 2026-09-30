@@ -5,6 +5,9 @@
 </h3>
 
 <p align="center">
+  <a href="https://abhi3kumar11.netlify.app/">
+    <img src="https://img.shields.io/badge/Resume-View%20Resume-0e75b6?style=for-the-badge&logo=readthedocs" />
+  </a>
   <a href="mailto:abhi3kumar11@gmail.com">
     <img src="https://img.shields.io/badge/Email-abhi3kumar11%40gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
@@ -28,20 +31,20 @@
 
 I'm an **AI & Full-Stack Developer and Product Builder** who enjoys turning ideas into real products.
 
-I like building things from **zero → something people can actually use** — from AI assistants and productivity tools to real-time communication platforms and complete web applications.
+I build **AI applications, productivity tools, real-time platforms, e-commerce websites, and developer-focused products** — from the initial idea and development to deployment.
 
 🎓 **B.Tech in Artificial Intelligence** — Purnea College of Engineering
 🎓 **BS in Data Science** — IIT Madras
 
-🚀 Building **[Utooly](https://www.utooly.com)** — AI, developer, PDF, image & productivity tools in one platform.
+🚀 Building **[Utooly](https://www.utooly.com)** — an all-in-one platform with AI, developer, PDF, image, and productivity tools.
 
 💬 Building **[RizzCall](https://www.rizzcall.com)** — a real-time social communication platform for casual conversations.
 
+🛒 Developed **[Close One](https://closeone.in)** — an e-commerce platform for online product sales.
+
 🤖 Creator of **[LUSI AI](https://lusiai.onrender.com)** — an open-source AI assistant.
 
-🎉 Built **[TechFest](https://techfestpce.onrender.com)** — an event management platform with registration, QR check-in, payments and role-based management.
-
-🧠 I enjoy working with **AI, full-stack development, real-time systems, APIs, automation, cloud deployment and open-source software.**
+🎉 Built **[TechFest](https://techfestpce.onrender.com)** — an event management platform with registration, QR check-in, payments, and role-based management.
 
 > **I don't just learn technologies — I like building with them.**
 
@@ -53,7 +56,7 @@ I like building things from **zero → something people can actually use** — f
 
 **[Utooly.com](https://www.utooly.com)**
 
-An all-in-one productivity platform bringing together **AI, developer, PDF, image and everyday utility tools**.
+An all-in-one platform bringing together **AI, developer, PDF, image, SEO, and everyday productivity tools**.
 
 Currently expanding the platform with new tools and AI-powered features.
 
@@ -83,7 +86,7 @@ A multimodal AI assistant built with Flask and AI APIs.
 * 🖼️ Image/vision support
 * ⚡ Real-time streaming
 * 🧠 Conversation history
-* 🎨 Modern glassmorphism interface
+* 🎨 Modern UI
 * 🔌 Multiple AI model integration
 
 **Tech:** Python • Flask • JavaScript • OpenRouter API
@@ -94,7 +97,7 @@ A multimodal AI assistant built with Flask and AI APIs.
 
 **[Live Platform](https://techfestpce.onrender.com)** • **[GitHub](https://github.com/CodeQuestPCE/techfest-26)**
 
-A complete platform for managing technical festivals and college events.
+A full-stack platform for managing technical festivals and college events.
 
 * 🎟️ Event registration
 * 📱 QR-based check-in
@@ -107,9 +110,19 @@ A complete platform for managing technical festivals and college events.
 
 ---
 
+### 🛒 Close One — E-Commerce Platform
+
+**[Live Website](https://closeone.in)**
+
+An e-commerce platform developed for online product sales with a responsive and user-friendly shopping experience.
+
+**Focus:** E-Commerce • Web Development • UI/UX
+
+---
+
 ### 🧠 AI Notes Summarizer
 
-An AI-powered application that transforms **text, PDFs and images into useful study material**.
+An AI-powered application that transforms **text, PDFs, and images into useful study material**.
 
 * 📝 Summaries
 * 🔑 Key points
@@ -123,7 +136,7 @@ An AI-powered application that transforms **text, PDFs and images into useful st
 
 ### 🧪 Quiz Master V1
 
-A web-based educational quiz platform built for interactive learning.
+A web-based educational quiz platform built for interactive learning and automated evaluation.
 
 **Tech:** Python • Flask • SQLite • Bootstrap
 
@@ -133,7 +146,7 @@ A web-based educational quiz platform built for interactive learning.
 
 ### 🏥 Hospital Management System
 
-A full-stack hospital management platform for managing:
+A full-stack application for managing:
 
 * Patients
 * Appointments
@@ -186,14 +199,6 @@ A full-stack hospital management platform for managing:
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi3kumar11&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 * 🤖 Generative AI & LLM Applications
@@ -205,25 +210,19 @@ A full-stack hospital management platform for managing:
 
 ---
 
-## 🎯 My Interests
+## 🎯 Interests
 
-```text
-AI & Machine Learning
-Full-Stack Development
-Product Building
-Developer Tools
-Real-Time Applications
-Open Source
-Automation
-Cloud Computing
-System Design
-```
+**AI & Machine Learning • Full-Stack Development • Product Building • Developer Tools • Real-Time Applications • Open Source • Automation • Cloud Computing • System Design**
 
 ---
 
 ## 🌍 Let's Connect
 
 <p align="center">
+
+<a href="https://abhi3kumar11.netlify.app/">
+<img src="https://img.shields.io/badge/Resume-View-0e75b6?style=for-the-badge&logo=readthedocs"/>
+</a>
 
 <a href="https://www.linkedin.com/in/abhi3kumar11">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
